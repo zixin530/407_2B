@@ -1,4 +1,4 @@
-Group Project - Game Collection
+#Group Project - Game Collection
 Project Description
 
 We are going  to build a game which basically allow two players to use a shared screen to play. The game is a collection of several simple but funny games which let two players play against each other. The players can choose which games to play from different types of games provided, and gain a point after each victory. Our motivation creating this application is to entertain people who are interested in playing two-player mobile games locally (share a screen using one smartphone). The application is aimed to help people to kill time and even build friendship when they feel bored or want to take a break, i.e. waiting in a line, etc. The major way to use the application (play the games) is by touching the screen, however voice-controlled games are also within our consideration.
@@ -20,7 +20,8 @@ Pictorial Representation
 Our application starts from a homepage similar to Figure 1, awaiting players to choose which game to play. After making the choice, an alert window will pop up, as shown in Figure 2, showing how to play the selected game, providing choices of “OK” or “Cancel”, and awaiting player’s response. Players are expected to hit “OK” to indicate that they understand the rule and want to proceed to the game, or hit “Cancel” to go back to the homepage to make another choice.
 
        
-Figure 1: Homepage.                                          Figure 2: Alert window with game rule.
+Figure 1: Homepage.                                          
+Figure 2: Alert window with game rule.
 
 Figure 3, 4, 5 provide a preview for each of the game. The game will begin after a counting down of three seconds, can be paused by clicking on a pause button. After clicking on the pause button, there would pop up an alert window, allowing player to choose from either continue playing the game or exit. The game would be automatically terminated, popping up an alert window showing the winner, and go back to homepage if there is a winner.
 
